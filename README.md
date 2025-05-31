@@ -69,3 +69,5 @@ Users input six risk factors, and the app predicts bankruptcy status with a clea
 
 ❌ “The company is going to be bankrupt”
 
+📄 [Download Full Project Report  (PDF)](Bankruptcy_prediction_doc.pdf)
+
