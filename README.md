@@ -68,3 +68,4 @@ Users input six risk factors, and the app predicts bankruptcy status with a clea
 ✔️ “The company is non-bankrupt”
 
 ❌ “The company is going to be bankrupt”
+
